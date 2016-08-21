@@ -1,2 +1,2 @@
 # learning-node
-Simple samples and notes to learn node.js
+Simple samples and notes to learn Node.js
